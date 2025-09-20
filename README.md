@@ -15,7 +15,7 @@
    Quedara expuesta la api en la siguiente url: http://localhost:5173/api/properties
 
 2. Frontend Next.js
-   En la carpeta frontend esta el consumo de la api con Next.js el cual muestra un listado de propiedades y permite filtrar por nombre, direccion, precio maximo y precio minimo
+   En la carpeta frontend esta el consumo de la api con Next.js el cual muestra un listado de propiedades y permite filtrar por nombre, direccion, precio maximo y precio minimo.
 
    Para correr el proyecto se debe ingresar desde la consola a la carpeta:
 
@@ -23,10 +23,10 @@
    npm run dev
    Enter
 
-   La aplicacion puede ser accedida desde el navegador en la siguiente url: http://localhost:3000
+   La aplicacion puede ser accedida desde el navegador en la siguiente url: http://localhost:3000.
 
 3. Base de Datos
-   En la carpeta bd esta el esquema de la bd mongodb
+   En la carpeta bd esta el esquema de la bd mongodb en el archivo: RealStateBd.Properties.json que contiene el json exportado MongoDB Compass.
    
    DatabaseName: RealStateBd
    CollectionName: Properties
