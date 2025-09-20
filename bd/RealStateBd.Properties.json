@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "68c34c590d4d38ad58721e57"
+  },
+  "name": "Apartamento Centro",
+  "address": "Cra 10 #20-30",
+  "price": 250000000,
+  "year": 2018,
+  "owner": {
+    "_id": {
+      "$oid": "68c34c590d4d38ad58721e58"
+    },
+    "name": "Carlos Pérez",
+    "address": "Calle 123",
+    "photo": "perfil.jpg",
+    "birthday": {
+      "$date": "1985-07-20T00:00:00.000Z"
+    }
+  },
+  "images": [
+    {
+      "file": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "enabled": true
+    },
+    {
+      "file": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "enabled": false
+    }
+  ],
+  "traces": [
+    {
+      "dateSale": {
+        "$date": "2023-05-15T00:00:00.000Z"
+      },
+      "name": "Venta inicial",
+      "value": 260000000,
+      "tax": 15000000
+    },
+    {
+      "dateSale": {
+        "$date": "2024-01-10T00:00:00.000Z"
+      },
+      "name": "Reventa",
+      "value": 280000000,
+      "tax": 16000000
+    }
+  ],
+  "created_at": {
+    "$date": "2025-09-17T00:00:00.000Z"
+  },
+  "updated_at": {
+    "$date": "2025-09-17T00:00:00.000Z"
+  },
+  "code_internal": "AP-001"
+},
+{
+  "_id": {
+    "$oid": "68cb8584694fd2713504a2b9"
+  },
+  "name": "Casa Manizales",
+  "address": "Calle",
+  "price": {
+    "$numberDecimal": "200000000"
+  },
+  "code_internal": "CS-001",
+  "year": 2020,
+  "owner": {
+    "_id": {
+      "$oid": "68c34c590d4d38ad58721e59"
+    },
+    "name": "Manuel Serna",
+    "address": "Calle",
+    "photo": "perfil.png",
+    "birthday": {
+      "$date": "1983-09-06T18:30:00.916Z"
+    }
+  },
+  "images": [
+    {
+      "file": "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "enabled": true
+    }
+  ],
+  "traces": [
+    {
+      "dateSale": {
+        "$date": "2025-09-18T04:03:08.917Z"
+      },
+      "name": "Venta iniciál",
+      "value": {
+        "$numberDecimal": "250000000"
+      },
+      "tax": {
+        "$numberDecimal": "10000000"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-09-18T04:07:32.943Z"
+  },
+  "updated_at": {
+    "$date": "2025-09-18T04:07:32.943Z"
+  }
+}]
