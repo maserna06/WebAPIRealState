@@ -17,6 +17,7 @@
 /Users/manu/ProyectosNet/WebAPIRealState/api/obj/Debug/net8.0/api.csproj.CoreCompileInputs.cache
 /Users/manu/ProyectosNet/WebAPIRealState/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cs
 /Users/manu/ProyectosNet/WebAPIRealState/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cache
+/Users/manu/ProyectosNet/WebAPIRealState/api/obj/Debug/net8.0/api.sourcelink.json
 /Users/manu/ProyectosNet/WebAPIRealState/api/obj/Debug/net8.0/staticwebassets.build.json
 /Users/manu/ProyectosNet/WebAPIRealState/api/obj/Debug/net8.0/staticwebassets.development.json
 /Users/manu/ProyectosNet/WebAPIRealState/api/obj/Debug/net8.0/staticwebassets/msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
@@ -31,3 +32,9 @@
 /Users/manu/ProyectosNet/WebAPIRealState/api/obj/Debug/net8.0/api.pdb
 /Users/manu/ProyectosNet/WebAPIRealState/api/obj/Debug/net8.0/api.genruntimeconfig.cache
 /Users/manu/ProyectosNet/WebAPIRealState/api/obj/Debug/net8.0/ref/api.dll
+/Users/manu/ProyectosNet/WebAPIRealState/api/bin/Debug/net8.0/DnsClient.dll
+/Users/manu/ProyectosNet/WebAPIRealState/api/bin/Debug/net8.0/MongoDB.Bson.dll
+/Users/manu/ProyectosNet/WebAPIRealState/api/bin/Debug/net8.0/MongoDB.Driver.dll
+/Users/manu/ProyectosNet/WebAPIRealState/api/bin/Debug/net8.0/SharpCompress.dll
+/Users/manu/ProyectosNet/WebAPIRealState/api/bin/Debug/net8.0/Snappier.dll
+/Users/manu/ProyectosNet/WebAPIRealState/api/bin/Debug/net8.0/ZstdSharp.dll
